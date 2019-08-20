@@ -16,7 +16,7 @@
 #ifndef PUNTEROSBASICO_PUNTEROS_H
 #define PUNTEROSBASICO_PUNTEROS_H
 
-
+//prueba commit
 class Punteros {
     static int numeroAlCuboValor(int);
     static int numeroAlCuboPuntero(int *);
